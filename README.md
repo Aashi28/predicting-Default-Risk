@@ -23,3 +23,4 @@ Logistic Regression
 Decision Tree
 Forest Model
 Boosted Tree
+software Used: Alteryx Designer
